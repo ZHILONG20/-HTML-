@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RUNOOB.COM</title>
+	</head>
+		<body>
+			<p1 style="background-color:LightGreen;color:white;text-align:left;font-family:verdana;font-size:200%">RUNOOB.COM<br /></p1>
+
+						
+			<pre>
+<p2 style=font-size:150%> 源代码<a href="https://www.runoob.com/try/try.php?filename=tryhtml_newfont"  style="text-decoration:none;">(显示异常)</a></p2>                                 <a href="//www.runoob.com/html/html-tutorial.html"><img src="/images/logo.png"></a>
+</pre>
+
+</body>
+</html>
